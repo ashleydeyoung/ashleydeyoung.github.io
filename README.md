@@ -6,10 +6,10 @@ This is my up-to-date portfolio, consistenting of contact information, resume an
 
 ## Deployement
 
-[Portfolio] (https://ashleydeyoung.github.io/)
+[Portfolio](https://ashleydeyoung.github.io/)
 
-![Image] (./assets/images/portfolio.png)
+![Image](./assets/images/portfolio.png)
 
 ## Author
 
-[Ashley-DeYoung] (https://github.com/ashleydeyoung)
+[Ashley DeYoung](https://github.com/ashleydeyoung)
