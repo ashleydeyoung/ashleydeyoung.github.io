@@ -2,3 +2,12 @@ body {
   
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.img-thumbnail {
+    width: 350px;
+    height: 200px;
+}
+
+.project-text {
+    text-align: center;
+}
