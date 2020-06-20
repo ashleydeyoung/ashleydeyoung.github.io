@@ -11,3 +11,11 @@ body {
 .project-text {
     text-align: center;
 }
+
+.colors {
+    background-color: rgb(29, 159, 219);
+}
+
+.text-color {
+    color:  rgb(29, 159, 219);;
+}
